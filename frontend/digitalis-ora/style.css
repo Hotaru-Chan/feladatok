@@ -1,0 +1,31 @@
+body{
+    background-color:dimgray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#ora {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 13%;
+    text-align: center;
+    border: 3px solid darkgreen;
+    border-radius: 35px;
+    background-color: black;
+    padding: 3%;
+}
+#ido {
+    font-size: 1000%;
+    color: greenyellow;
+}
+
+#datum {
+    font-size: 700%;
+    color: greenyellow;
+}
+
+hr{
+    width: 80%;
+    height: 2px;
+    background-color: greenyellow;
+}

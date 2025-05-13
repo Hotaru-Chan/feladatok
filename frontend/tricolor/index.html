@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css">
+    <title>Tricolors</title>
+</head>
+<body>
+<form>
+  <div>
+    <select>  <!--kiválasztás, melyik sávot szeretnénk színezni-->
+      <option id="elso">első (felső / bal)</option>
+      <option id="masodik">második (középső)</option>
+      <option id="harmadik">harmadik (alsó/ jobb)</option>
+    </select>
+
+    <p><input type="color" id="szin"></p> <!--színpaletta-->
+
+    <p><button type="submit" id="kitoltes">Kitölt</button></p> <!--elküldi a kiválasztott sáv és a színpaletta adatait, aminek megfelelően színezi a zászlót-->
+  </div>
+
+  <div id="flag">  <!--zászló sávjai-->
+    <div id="egy"></div>
+    <div id="ketto"></div>
+    <div id="harom"></div>
+  </div>
+<!--radio gombok, a csíkos az alapértelmezett, ezért az van alapból bejelölve-->
+  <div style="display: flex; flex-direction: column; justify-content: center;">
+    <label><input type="radio" checked id="csikos">- csíkos</label><br>
+    <label><input type="radio" id="savos">- sávos</label>
+  </div>
+</form>
+
+<script src="./script.js"></script>
+</body>
+</html>
