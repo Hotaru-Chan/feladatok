@@ -1,0 +1,16 @@
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\bin\Debug\net5.0\Jarmuvek.exe
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\bin\Debug\net5.0\Jarmuvek.deps.json
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\bin\Debug\net5.0\Jarmuvek.runtimeconfig.json
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\bin\Debug\net5.0\Jarmuvek.runtimeconfig.dev.json
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\bin\Debug\net5.0\Jarmuvek.dll
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\bin\Debug\net5.0\ref\Jarmuvek.dll
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\bin\Debug\net5.0\Jarmuvek.pdb
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\obj\Debug\net5.0\Jarmuvek.csproj.AssemblyReference.cache
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\obj\Debug\net5.0\Jarmuvek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\obj\Debug\net5.0\Jarmuvek.AssemblyInfoInputs.cache
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\obj\Debug\net5.0\Jarmuvek.AssemblyInfo.cs
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\obj\Debug\net5.0\Jarmuvek.csproj.CoreCompileInputs.cache
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\obj\Debug\net5.0\Jarmuvek.dll
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\obj\Debug\net5.0\ref\Jarmuvek.dll
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\obj\Debug\net5.0\Jarmuvek.pdb
+C:\Users\papai.kriszti.1215\source\repos\Jarmuvek\Jarmuvek\obj\Debug\net5.0\Jarmuvek.genruntimeconfig.cache
