@@ -1,0 +1,10 @@
+C:\Users\papai.kriszti.1215\source\repos\iskolaGUI_01_07\iskolaGUI_01_07\bin\Debug\iskolaGUI_01_07.exe.config
+C:\Users\papai.kriszti.1215\source\repos\iskolaGUI_01_07\iskolaGUI_01_07\bin\Debug\iskolaGUI_01_07.exe
+C:\Users\papai.kriszti.1215\source\repos\iskolaGUI_01_07\iskolaGUI_01_07\bin\Debug\iskolaGUI_01_07.pdb
+C:\Users\papai.kriszti.1215\source\repos\iskolaGUI_01_07\iskolaGUI_01_07\obj\Debug\iskolaGUI_01_07.csproj.AssemblyReference.cache
+C:\Users\papai.kriszti.1215\source\repos\iskolaGUI_01_07\iskolaGUI_01_07\obj\Debug\iskolaGUI_01_07.Form1.resources
+C:\Users\papai.kriszti.1215\source\repos\iskolaGUI_01_07\iskolaGUI_01_07\obj\Debug\iskolaGUI_01_07.Properties.Resources.resources
+C:\Users\papai.kriszti.1215\source\repos\iskolaGUI_01_07\iskolaGUI_01_07\obj\Debug\iskolaGUI_01_07.csproj.GenerateResource.cache
+C:\Users\papai.kriszti.1215\source\repos\iskolaGUI_01_07\iskolaGUI_01_07\obj\Debug\iskolaGUI_01_07.csproj.CoreCompileInputs.cache
+C:\Users\papai.kriszti.1215\source\repos\iskolaGUI_01_07\iskolaGUI_01_07\obj\Debug\iskolaGUI_01_07.exe
+C:\Users\papai.kriszti.1215\source\repos\iskolaGUI_01_07\iskolaGUI_01_07\obj\Debug\iskolaGUI_01_07.pdb
