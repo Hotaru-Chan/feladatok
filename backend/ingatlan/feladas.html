@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Hírdetés feladása</title>
+</head>
+<body>
+    <h1>Hirdetés feladása</h1>
+    <form id="feladForm">
+        <label for="kategoriak">Ingatlan típusa: </label>
+        <select name="kategoriak" id="kategoriak">
+        </select>
+        <label for="hirdetesDatuma">Hirdetés feladásának dátuma:</label>
+        <input type="text" name="hirdetesDatuma" id="hirdetesDatuma" readonly>
+        <label for="leiras">Ingatlan leírása</label>
+        <textarea name="leiras" id="leiras" cols="30" rows="10" required></textarea>
+        <label for="tehermentes">Tehermentes: </label>
+        <label for="Igen">Igen</label>
+        <input type="radio" name="tehermentes" id="igen" checked>
+        <label for="Nem">Nem</label>
+        <input type="radio" name="tehermentes" id="nem"><br><br>
+        <label for="ar">Ingatlan ára:</label>
+        <input type="number" name="ar" id="ar" required>
+        <label for="kepUrl">Kép URL:</label>
+        <input type="text" name="kepUrl" id="kepUrl" required>
+        <input type="submit" value="Feladás">
+    </form>
+    <script src="feladas.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ingatlan keresése</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Ingatlan keresése</h2>
+    <form action="" id="keresForm">
+        <label for="artol">Minimális ár: </label>
+        <input type="number" name="artol" id="artol" required>
+        <label for="arig">Maximális ár</label>
+        <input type="number" name="arig" id="arig" required>
+        <label for="kategoriak">Ingatlan típusa:</label>
+        <select name="kategoriak" id="kategoriak"></select>
+        <input type="submit" value="Keres">
+    </form>
+
+
+    <script src="kereses.js"></script>
+</body>
+</html>
