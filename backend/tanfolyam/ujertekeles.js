@@ -25,4 +25,5 @@ document.getElementById('ertekelForm').addEventListener('submit', function(event
         alert(str)
     })
     .catch(hiba => alert(hiba.message))
+    .finally(adat => window.location.href="tanulok.html")
 }) 

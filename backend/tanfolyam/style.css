@@ -1,76 +1,40 @@
-img{
-    height: 100px;
-    width: 100px;
-}
-h1,h2{
-    text-align: center;
-    font-style: italic;
-}
 form{
-    width: 500px;
-    display: block;
-    margin: 20px auto;
-    padding: 10px;
-    background-color: blanchedalmond;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 50%;
+    padding: 3%;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    text-align: center;
+    font-size: large;
+}
+h2{
+    text-align: center;
+}
+input[type=submit], button{
+    padding: 2%;
+    background-color: gray;
+    border-radius: 5px;
+    margin-top: 2%;
+}
+
+input[type=submit]:hover, button:hover{
+    background-color: darkgrey;
     
 }
-input[type="text"],
-input[type="number"],
-input[type="email"],
-input[type="password"],
-textarea,
-select{
-    width: 90%;
-    margin: 10px;
-    border-radius: 4px;
-    border: 1px solid gray;
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0%;
 }
-button[type="submit"]{
-    background-color: cadetblue;
-    font-size: 16px;
-    margin: 10px;
-    border-radius: 4px;
-    cursor: pointer;
-}
-button[type="submit"]:hover{
-    background-color: gray;
-}
-.navbar li{
-    list-style-type: none;
-}
-.navbar a{
-    float: left;
-    display: block;
-    color: white;
-    text-decoration: none;
-    padding: 15px 20px;
-}
-.navbar{
-    background-color: darkgrey;
-    overflow: hidden;
-}
-/*reszponzitivitás*/
-@media screen and (max-width: 600px) {
-    .navbar a{
-        float: none;
-        display: block;
-        text-align: left;
-    }
+
+table, th, td{
+    border: 1px, solid;
+    border-collapse: collapse;
 }
 table{
-    width: 100%;
-    margin-top: 20px;
+    width: 70%;
+    margin: 0px auto;
 }
-th{
-    background-color: #f0f1e3;
-    
-}
-td:last-child{
-    text-align: center;
-}
-th,td{
-    border: 1px solid lightgoldenrodyellow;
-    border-radius: 8px;
-}
+
